@@ -8,4 +8,8 @@ Useful function:
   
 3. int  setattrib(int geohandle, string attribclass, string attribute_name, int element_num, int vertex_num, <type>value, string mode="set");
   
-4.
+4. fit(); 
+  
+5. None existed VEX command can be defined via lib from VOP. eg:bias/gain/...: https://www.bilibili.com/video/BV1aX4y1N7fi?p=14&spm_id_from=pageDriver
+  
+6. Control the @Data by Bias/Gain/Fit: https://www.bilibili.com/video/BV1aX4y1N7fi?p=14&spm_id_from=pageDriver

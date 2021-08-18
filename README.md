@@ -14,4 +14,12 @@ Useful function:
   
 6. Control the @Data by Bias/Gain/Fit: https://www.bilibili.com/video/BV1aX4y1N7fi?p=14&spm_id_from=pageDriver
   
-7. Closer to the edge the color change. https://www.bilibili.com/video/BV1aX4y1N7fi?p=17
+7. Closer to the edge the color change. 
+  
+   https://www.bilibili.com/video/BV1aX4y1N7fi?p=17
+   
+   debug：
+  
+   https://www.bilibili.com/video/BV1aX4y1N7fi?p=20
+  
+8. 
